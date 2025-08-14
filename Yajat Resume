@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+<table border="0" style=" border-collapse: collapse;">
+<tr style="background-color: navy; color: white;">
+<th style="width:95%;font-size:70px;"> Yajat Salunkhe's Resume </th>
+<th>
+<img src="C:\Users\gajen\OneDrive\Desktop\Yajat Resume pic.jpg" align="right" height="250" width="200" style="border: 5px solid navy;"></th>
+</tr>
+</table>
 <title> Yajat Resume </title>
 <body>
-<h1 align="center"> Yajat Salunkhe's Resume </h1>
 <h2 style="background-color: yellow; color: red; width: 1"><li><u> Personal Information :- </u></li></h2>
 <img src="C:\Users\gajen\OneDrive\Desktop\hyderabad.jpg" align="right" height="220" width="450" style="border: 5px solid cyan;">
 <p> <br>Name :- Yajat Salunkhe</br>

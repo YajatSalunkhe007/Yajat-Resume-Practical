@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Yajat Resume </title>
+<body>
+<h1 align="center"> Yajat Salunkhe's Resume </h1>
+<h2 style="background-color: yellow; color: red; width: 1"><li><u> Personal Information :- </u></li></h2>
+<img src="C:\Users\gajen\OneDrive\Desktop\hyderabad.jpg" align="right" height="220" width="450" style="border: 5px solid cyan;">
+<p> <br>Name :- Yajat Salunkhe</br>
+<br>Age :- 18 years</br>
+<br>Birth date :- 12th March 2007</br>
+<br>Birth Place :- Hyderabad</br>
+<br>Blood Group :- A+</br>
+<br> Address :- B2-504, ARV New Town, Near BRIC College of Engineering, Jagdamba Bhavan Road, Pisoli, Pune-411060</br>
+<hr>
+<h2 style="background-color: orange; color: green"><li><u> Contact Details :- </u></li></h2>
+<p> <br> Email ID:- yajatsalunkhe@gmail.com </br>
+<br> Phone Number :- 738***66</br>
+<br> Instagram ID :- yajat_salunkhe007 </br>
+</hr>
+<hr>
+<h2 style=" background-color: pink; color: purple"><li><u> Educational Qualifications :- </u></li></h2>
+<p><br> Completed 10th in Vidyashilp Public School, Pune.</br>
+<br> Completed 12th in Trinity International School.</br>
+<br> Currently Pursuing B.Tech Degree in Information Technology (First Year) at Bharati Vidyapeeth College of Engineering Pune.</br>
+<br> 10th Results :- 78.2% </br>
+<br> 12th Results :- 86.2% </br>
+<hr>
+<h2 style="background-color: lightgreen; color:blue"><li><u> Career Objectives </u></li></h2>
+<p> My main Objective is to complete my B.Tech Degree in Information Technology with atleast 9 CGPA in the final Year, without getting a back in any subject. And get placed in a Multi- Billion Dollar MNC Company. Also to be alert about the evolving technology in this competetive world, then learn and adapt to it, which helps me stay up to date with the upcoming technologies.
+</hr>
+</head>
+</html>

@@ -12,12 +12,12 @@
 <body style="font-size:17px; ">
 <h2 style="background-color: yellow; color: red; width: 18%"><li><u> Personal Information</u></li></h2>
 <img src="C:\Users\gajen\OneDrive\Desktop\hyderabad.jpg" align="right" height="220" width="450" style="border: 5px solid yellow;">
-<p> <br><b>Name :-</b> Yajat Salunkhe</br>
-<br><b>Age :-</b> 18 years</br>
-<br><b>Birth date :- </b>12th March 2007</br>
-<br><b>Birth Place :-</b> Hyderabad</br>
-<br><b>Blood Group :-</b> A+</br>
-<br><b> Address :-</b> B2-504, ARV New Town, Near BRIC College of Engineering, Jagdamba Bhavan Road, Pisoli, Pune-411060 <a  target="_blank" href="https://www.google.com/maps/place/Arv+New+Town+Block-B2,+Arv+New+Town,+Pune,+Maharashtra+411060/@18.4392705,73.9037554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebb37f1f9d5d:0x47cc89c74b851ef6!8m2!3d18.4392654!4d73.9063357!16s%2Fg%2F11h01tdkkx?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D">( View Address on Map )</a></br>
+<p> <br><b>📛Name :-</b> Yajat Salunkhe</br>
+<br><b>🧑Age :-</b> 18 years</br>
+<br><b>📅Birth date :- </b>12th March 2007</br>
+<br><b>📍Birth Place :-</b> Hyderabad</br>
+<br><b>🩸Blood Group :-</b> A+</br>
+<br><b>🏡 Address :-</b> B2-504, ARV New Town, Near BRIC College of Engineering, Jagdamba Bhavan Road, Pisoli, Pune-411060 <a  target="_blank" href="https://www.google.com/maps/place/Arv+New+Town+Block-B2,+Arv+New+Town,+Pune,+Maharashtra+411060/@18.4392705,73.9037554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebb37f1f9d5d:0x47cc89c74b851ef6!8m2!3d18.4392654!4d73.9063357!16s%2Fg%2F11h01tdkkx?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D">( View Address on Map )</a></br>
 <hr>
 <h2 style="background-color: orange; color: green; width:14%"><li><u> Contact Details</u></li></h2>
 <p> <br><b>✉️ Email ID:- </b>yajatsalunkhe@gmail.com </br>
@@ -105,11 +105,11 @@ onmouseout="this.style.backgroundColor= 'lightyellow'">
 <br> Really good in dancing and acting, performed in several events, Dramas, Skits, Roleplays.</br>
 <hr>
 <h2 style="background-color:green; color:cyan; width:11%"><li><u> Soft Skills</u></li></h2>
-<p><br> Communication Skills</br>
-<br>Teamwork</br>
-<br>Problem-Solving</br>
-<br>Time Management</br>
-<br> Fluent Languages: - English, Hindi, Marathi.</br>
+<p><br> 👥Communication Skills</br>
+<br>🫂Teamwork</br>
+<br>🧠Problem-Solving</br>
+<br>⌛Time Management</br>
+<br> 🗣️Fluent Languages: - English, Hindi, Marathi.</br>
 <hr>
 </head>
 </html>

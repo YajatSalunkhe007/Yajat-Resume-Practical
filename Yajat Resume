@@ -2,32 +2,32 @@
 <html>
 <head>
 <table border="0" style=" border-collapse: collapse;">
-<tr style="background-color: cyan; color: white;">
+<tr style="background-color: navy; color: white;">
 <th style="width:95%;font-size:70px;"> Yajat Salunkhe's Resume </th>
 <th>
-<img src="C:\Users\gajen\OneDrive\Desktop\Yajat Resume pic.jpg" align="right" height="250" width="200" style="border: 5px blue;"></th>
+<img src="C:\Users\gajen\OneDrive\Desktop\Yajat resume pic 2.jpg" align="right" height="260" width="200" style="border: 3px solid white;"></th>
 </tr>
 </table>
 <title> Yajat Resume </title>
-<body>
-<h2 style="background-color: yellow; color: red; width: 1"><li><u> Personal Information :- </u></li></h2>
-<img src="C:\Users\gajen\OneDrive\Desktop\hyderabad.jpg" align="right" height="220" width="450" style="border: 5px solid cyan;">
+<body style="font-size:17px; ">
+<h2 style="background-color: yellow; color: red; width: 18%"><li><u> Personal Information</u></li></h2>
+<img src="C:\Users\gajen\OneDrive\Desktop\hyderabad.jpg" align="right" height="220" width="450" style="border: 5px solid yellow;">
 <p> <br><b>Name :-</b> Yajat Salunkhe</br>
 <br><b>Age :-</b> 18 years</br>
 <br><b>Birth date :- </b>12th March 2007</br>
 <br><b>Birth Place :-</b> Hyderabad</br>
 <br><b>Blood Group :-</b> A+</br>
-<br><b> Address :-</b> B2-504, ARV New Town, Near BRIC College of Engineering, Jagdamba Bhavan Road, Pisoli, Pune-411060 <a href="https://www.google.com/maps/place/Arv+New+Town+Block-B2,+Arv+New+Town,+Pune,+Maharashtra+411060/@18.4392705,73.9037554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebb37f1f9d5d:0x47cc89c74b851ef6!8m2!3d18.4392654!4d73.9063357!16s%2Fg%2F11h01tdkkx?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D">( View Address on Map )</a></br>
+<br><b> Address :-</b> B2-504, ARV New Town, Near BRIC College of Engineering, Jagdamba Bhavan Road, Pisoli, Pune-411060 <a  target="_blank" href="https://www.google.com/maps/place/Arv+New+Town+Block-B2,+Arv+New+Town,+Pune,+Maharashtra+411060/@18.4392705,73.9037554,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2ebb37f1f9d5d:0x47cc89c74b851ef6!8m2!3d18.4392654!4d73.9063357!16s%2Fg%2F11h01tdkkx?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D">( View Address on Map )</a></br>
 <hr>
-<h2 style="background-color: orange; color: green"><li><u> Contact Details :- </u></li></h2>
-<p> <br><b> Email ID:- </b>yajatsalunkhe@gmail.com </br>
-<br> <b>Phone Number :-</b> 7385108266</br>
-<br> <b>LinkedIn Profile: -</b> Yajat Salunkhe <a href="https://www.linkedin.com/in/yajat-salunkhe-232173349/">( Visit LinkedIn Profile )</a> </br>
-<br> <b>Outlook ID: -</b> yajatsalunkhe@outlook.com</br>
+<h2 style="background-color: orange; color: green; width:14%"><li><u> Contact Details</u></li></h2>
+<p> <br><b>✉️ Email ID:- </b>yajatsalunkhe@gmail.com </br>
+<br> <b>📞Phone Number :-</b>+91 7385108266</br>
+<br> <b><img src="C:\Users\gajen\OneDrive\Desktop\linkedin image.jpg"height="19" width="20">LinkedIn Profile: -</b> Yajat Salunkhe <a  target="_blank" href="https://www.linkedin.com/in/yajat-salunkhe-232173349/">( Visit LinkedIn Profile )</a> </br>
+<br> <b>📧Outlook ID: -</b> yajatsalunkhe@outlook.com</br>
 </hr>
 <hr>
-<h2 style=" background-color: pink; color: purple"><li><u> Educational Qualifications :- </u></li></h2>
-<table border="2" align="right" style="border-collapse:collapse";>
+<h2 style=" background-color: pink; color: purple; width:23%"><li><u> Educational Qualifications </u></li></h2>
+<table cellpadding="6" border="2" align="right" style="border-collapse:collapse;">
 <tr onmouseover="this.style.backgroundColor= 'lightblue' "
 onmouseout="this.style.backgroundColor= 'lightyellow'">
 <th> Sr. No.</th>
@@ -53,14 +53,14 @@ onmouseout="this.style.backgroundColor= 'lightyellow'">
 onmouseout="this.style.backgroundColor= 'lightyellow'">
 <td align="center">3.</td>
 <td>JEE Mains</td>
-<td>Pune</td>
+<td>Talegaon, Pune</td>
 <td>76.7 Percentile</td>
 </tr>
 <tr onmouseover="this.style.backgroundColor= 'lightblue' "
 onmouseout="this.style.backgroundColor= 'lightyellow'">
 <td align="center">4.</td>
 <td>MHCET Entrance Exam</td>
-<td>Pune</td>
+<td>Bibewadi, Pune</td>
 <td>87.4</td>
 </tr>
 <tr onmouseover="this.style.backgroundColor= 'lightblue' "
@@ -71,21 +71,45 @@ onmouseout="this.style.backgroundColor= 'lightyellow'">
 <td>1338</td>
 </tr>
 </table>
-<p><br> Degree: B.Tech / B.E. in Information Technology</br>
-<br> College Name/University Name: - Bharati Vidyapeeth Deemed University College of Engineering Pune.</br>
-<br> Year of Admission: - 2025</br>
-<br> 10th Board Results :- 78.2% </br>
-<br> 12th Board Results :- 86.2% </br>
+<p><br><b> 🎓Degree: - </b> B.Tech / B.E. in Information Technology</br>
+<br> <b>🏫College Name/University Name: -</b> Bharati Vidyapeeth Deemed University College of Engineering Pune.<a  target="_blank" href="https://www.bvuniversity.edu.in/">( Visit College Website )</a></br>
+<br> <b>🗓️Year of Admission: -</b> 2025</br>
+<br> <b>📜10th Board Results :-</b> 78.2% </br>
+<br> <b>📜12th Board Results :-</b> 86.2% </br>
 <hr>
-<h2 style="background-color: lightgreen; color:blue"><li><u> Career Objectives </u></li></h2>
+<h2 style="background-color: lightgreen; color:blue; width:17%"><li><u> Career Objectives </u></li></h2>
 <p>First-year B.Tech IT student with strong foundational skills in programming and problem-solving.<br> Interested in web development and data analytics.<br> Seeking opportunities to learn and contribute to innovative projects.My main Objective is to complete my B.Tech Degree in Information Technology with atleast 9 CGPA in the final Year, without getting a back in any subject.
-<br> Get placed in a Multi- Billion Dollar MNC Company.</br> Also to be alert about the evolving technology in this competetive world, then learn and adapt to it, which helps me stay up to date with the upcoming technologies.
+<br> Get placed in a Multi- Billion Dollar MNC Company.</br> Also to be alert about the evolving technology in this competetive world, then learn and adapt to it, which helps me stay up to date with the upcoming technologies.<br> Also to master my skills in the Industry/Job required Programming Languages such as C/C++, Java, Python, HTML, CSS, SQL, which helps be flexible and competitive which opens up several job Opportunities in the Future.</br>Also to learn several other communication languages such as German, French, Japenese which increases my Job Opportunities World Wide.
 </hr>
 <hr>
-<h2 style="background-color:lightblue;color:green"><li><u> Technical Skills: - </u></li></h2>
+<h2 style="background-color:lightblue;color:green; width:15%"><li><u> Technical Skills</u></li></h2>
 <p><br><b>Programming Languages: -</b> C, HTML, CSS.</br>
 <br><b>Tools: -</b> MS Office, Google Workspace, Windows Workspace, Git Basics.</br>
 <br><b>Concepts: -</b> World Wide Web (WWW), Unique Resource Indentifier/Locator (URL), OSI Model, TCP/IP Model, Network Protocol and their types.</br>
 <br><b>Other: -</b> Computer Hardware Basics and Functionings, Number System, Code Conversions, Higher Secondary Chemistry, Higher Secondary Physics, Higher Secondary Maths.</br>
+<hr>
+<h2 style="background-color: cyan; color:blue; width:17%"><li><u>Academic Projects</u></li></h2>
+<img src="C:\Users\gajen\OneDrive\Desktop\hydro powerplant html.jpg" align="right" width="400" height="250" style="border:5px solid Cyan">
+<br>Following are the projects Attempted in my Educational Life: - </br>
+<br><b>1.</b> An addition calculator in C Programming.</br>
+<br><b>2.</b> Basic HTML Webpages.</br>
+<br><b>3.</b> Solar Powered Water Boiler</br>
+<br><b>4.</b> Water Pressure Elevator</br>
+<br><b>5.</b> Pascal's Lift</br>
+<br><b>6.</b> Hydro Electric Power Plant</br>
+<hr>
+<h2 style="background-color:purple; color:pink; width:22%"><li><u>Extracurricular Activities</u></li></h2>
+<p><br>Been the Vise Headboy of Vidyashilp Public School, Pune in 2022-23.</br>
+<br> Also been the Cultural Head Captain of Trinity International School, Pune in 2024-25.</br>
+<br>Highly Interested in Football. Played Several Interhouse and Interschool Matches as well. Participated in Several Tournaments such as Zonal and District Level Football Competition, Subroto, Clusters, etc.</br>
+<br> Really good in dancing and acting, performed in several events, Dramas, Skits, Roleplays.</br>
+<hr>
+<h2 style="background-color:green; color:cyan; width:11%"><li><u> Soft Skills</u></li></h2>
+<p><br> Communication Skills</br>
+<br>Teamwork</br>
+<br>Problem-Solving</br>
+<br>Time Management</br>
+<br> Fluent Languages: - English, Hindi, Marathi.</br>
+<hr>
 </head>
 </html>
